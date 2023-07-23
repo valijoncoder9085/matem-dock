@@ -12,7 +12,7 @@
       <v-toolbar-title>{{ title }}</v-toolbar-title>
       <v-spacer />
     </v-app-bar>
-    <v-main :style="{backgroundImage: `url(${background})`}">
+    <v-main>
       <v-container>
         <Nuxt />
       </v-container>
@@ -21,12 +21,10 @@
 </template>
 
 <script>
-import background from '~/assets/background/img.jpg'
 export default {
   name: 'SidebarComponent',
   data () {
     return {
-      background: background,
       clipped: false,
       title: 'Diskret matematika va matekatik mantiq'
     }
