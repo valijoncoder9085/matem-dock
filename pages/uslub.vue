@@ -11,7 +11,7 @@ export default {
   components: {PDFComponent},
   data(){
     return{
-      src: "/uslub/MUSTAQIL-TA’LIM-MAVZULARINI-O’ZLASHTIRISH-BO’YICHA-ZARUR-USLUBIY-KO’RSATMALAR.pdf",
+      src: "/uslub/uslub.pdf",
     }
   }
 }

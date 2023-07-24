@@ -42,6 +42,31 @@ export default {
           icon: '',
           to: '/lessons'
         },
+        {
+          title: "Majmua",
+          icon: '',
+          to: '/majmua'
+        },
+        {
+          title: "Ishchi dastur",
+          icon: '',
+          to: '/dastur'
+        },
+        {
+          title: "Namunaviy dastur",
+          icon: '',
+          to: '/ndastur'
+        },
+        {
+          title: "Axborot tizimlari va texnologiyalari",
+          icon: '',
+          to: '/axborot'
+        },
+        {
+          title: "Kompyuter ilmlari va dasturlash texnologiyalari",
+          icon: '',
+          to: '/kompyuter'
+        },
       ]
     }
   }

@@ -9,10 +9,12 @@
       app
     >
       <v-spacer/>
-      <v-toolbar-title>{{ title }}</v-toolbar-title>
+      <v-toolbar-title style="color: white">
+        <h3>{{ title }}</h3>
+      </v-toolbar-title>
       <v-spacer />
     </v-app-bar>
-    <v-main>
+    <v-main :style="{backgroundImage: `url(${background})`}" style="background-attachment: fixed; background-position: center; background-repeat: repeat">
       <v-container>
         <Nuxt />
       </v-container>
@@ -21,13 +23,16 @@
 </template>
 
 <script>
+import background from '~/assets/background/background.jpg'
 export default {
   name: 'SidebarComponent',
   data () {
     return {
+      background: background,
       clipped: false,
       title: 'Diskret matematika va matekatik mantiq'
     }
   }
 }
 </script>
+
