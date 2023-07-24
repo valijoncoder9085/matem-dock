@@ -13,60 +13,43 @@ export default {
     return{
       items: [
         {
+          title: "Normativ Hujjatlar",
+          icon: 'normativ',
+          to: '/normativ'
+        },
+        {
           title: 'Kirish',
-          icon: '',
+          icon: 'kirish',
           to: '/kirish'
         },
         {
+          title: "Fan haqida ma'lumot",
+          icon: 'fan',
+          to: '/fan-haqida'
+        },
+        {
           title: 'Mundarija',
-          icon: '',
+          icon: 'mundarija',
           to: '/mundarija'
         },
         {
           title: "Adabiyotlar ro'yxati",
-          icon: '',
+          icon: 'axborot',
           to: '/adabiyotlar'
         },
         {
-          title: "Fan haqida ma'lumot",
-          icon: '',
-          to: '/fan-haqida'
-        },
-        {
-          title: "MUSTAQIL TA’LIM MAVZULARINI O’ZLASHTIRISH BO’YICHA ZARUR USLUBIY KO’RSATMALAR.",
-          icon: '',
-          to: '/uslub'
-        },
-        {
           title: "Darslar",
-          icon: '',
+          icon: 'dars',
           to: '/lessons'
         },
         {
-          title: "Majmua",
-          icon: '',
-          to: '/majmua'
+          title: "MUSTAQIL TA’LIM MAVZULARINI O’ZLASHTIRISH BO’YICHA ZARUR USLUBIY KO’RSATMALAR.",
+          icon: 'mustaqil',
+          to: '/uslub'
         },
-        {
-          title: "Ishchi dastur",
-          icon: '',
-          to: '/dastur'
-        },
-        {
-          title: "Namunaviy dastur",
-          icon: '',
-          to: '/ndastur'
-        },
-        {
-          title: "Axborot tizimlari va texnologiyalari",
-          icon: '',
-          to: '/axborot'
-        },
-        {
-          title: "Kompyuter ilmlari va dasturlash texnologiyalari",
-          icon: '',
-          to: '/kompyuter'
-        },
+
+
+
       ]
     }
   }

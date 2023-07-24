@@ -14,22 +14,27 @@ export default {
       items: [
         {
           title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
-          icon: '',
+          icon: 'masala',
           to: '/lessons/eight/masala'
         },
         {
           title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
-          icon: '',
+          icon: 'savol',
           to: '/lessons/eight/savol'
         },
         {
           title: 'Reja va tayanch iboralar',
-          icon: '',
+          icon: 'reja',
           to: '/lessons/eight/reja'
         },
         {
           title: 'Mulohazalar algebrasi funksiyalari (BUL funksiyasi)',
-          icon: '',
+          icon: 'toplam',
+          to: '/lessons/eight/funksiya'
+        },
+        {
+          title: 'Test',
+          icon: 'test',
           to: '/lessons/eight/funksiya'
         },
       ]

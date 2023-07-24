@@ -14,22 +14,27 @@ export default {
       items: [
         {
           title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
-          icon: '',
+          icon: 'masala',
           to: '/lessons/seven/masala'
         },
         {
           title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
-          icon: '',
+          icon: 'savol',
           to: '/lessons/seven/savol'
         },
         {
           title: 'Reja va tayanch iboralar',
-          icon: '',
+          icon: 'reja',
           to: '/lessons/seven/reja'
         },
         {
           title: 'FОRMULALARNING ASОSIY XОSSALARI. FОRMULALARNING CHINLIK TО’PLAMI',
-          icon: '',
+          icon: 'toplam',
+          to: '/lessons/seven/formula'
+        },
+        {
+          title: 'Test',
+          icon: 'test',
           to: '/lessons/seven/formula'
         },
       ]

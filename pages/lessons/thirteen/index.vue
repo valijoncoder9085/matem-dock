@@ -13,23 +13,28 @@ export default {
     return {
       items: [
         {
-          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
-          icon: '',
-          to: '/lessons/thirteen/masala'
-        },
-        {
-          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
-          icon: '',
-          to: '/lessons/thirteen/savol'
-        },
-        {
           title: 'Reja va tayanch iboralar',
-          icon: '',
+          icon: 'reja',
           to: '/lessons/thirteen/reja'
         },
         {
           title: "L NAZARIУA UCHUN GУОDELNING TО‘LIQLIK HAQIDAGI TEОREMASI.",
-          icon: '',
+          icon: 'toplam',
+          to: '/lessons/thirteen/teorea'
+        },
+        {
+          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
+          icon: 'savol',
+          to: '/lessons/thirteen/savol'
+        },
+        {
+          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
+          icon: 'masala',
+          to: '/lessons/thirteen/masala'
+        },
+        {
+          title: "Test",
+          icon: 'test',
           to: '/lessons/thirteen/teorea'
         },
       ]

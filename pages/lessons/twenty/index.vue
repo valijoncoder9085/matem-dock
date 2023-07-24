@@ -13,24 +13,29 @@ export default {
     return {
       items: [
         {
-          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
-          icon: '',
-          to: '/lessons/twenty/masala'
-        },
-        {
-          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
-          icon: '',
-          to: '/lessons/twenty/savol'
-        },
-        {
           title: 'Reja va tayanch iboralar',
-          icon: '',
+          icon: 'reja',
           to: '/lessons/twenty/reja'
         },
         {
           title: "ALGОRITM TUSHUNCHASI. HISОBLANUVLANCHILIK. PRIMITIV REKURSIV FUNKSIYALAR. QISMAN REKURSIV VA REKURSIV FUNKSIYALAR.",
-          icon: '',
+          icon: 'toplam',
           to: '/lessons/twenty/algoritm'
+        },
+        {
+          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
+          icon: 'savol',
+          to: '/lessons/twenty/savol'
+        },
+        {
+          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
+          icon: 'masala',
+          to: '/lessons/twenty/masala'
+        },
+        {
+          title: 'Test',
+          icon: 'test',
+          to: '/lessons/twenty/reja'
         },
       ]
     }

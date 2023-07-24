@@ -13,23 +13,28 @@ export default {
     return {
       items: [
         {
-          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
-          icon: '',
-          to: '/lessons/fourteen/masala'
-        },
-        {
-          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
-          icon: '',
-          to: '/lessons/fourteen/savol'
-        },
-        {
           title: 'Reja va tayanch iboralar',
-          icon: '',
+          icon: 'reja',
           to: '/lessons/fourteen/reja'
         },
         {
           title: "PREDIKATLAR ALGEBRASI VA UNING FОRMULALARI",
-          icon: '',
+          icon: 'toplam',
+          to: '/lessons/fourteen/formula'
+        },
+        {
+          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
+          icon: 'savol',
+          to: '/lessons/fourteen/savol'
+        },
+        {
+          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
+          icon: 'masala',
+          to: '/lessons/fourteen/masala'
+        },
+        {
+          title: "Test",
+          icon: 'test',
           to: '/lessons/fourteen/formula'
         },
       ]

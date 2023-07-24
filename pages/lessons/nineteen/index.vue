@@ -14,22 +14,27 @@ export default {
       items: [
         {
           title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
-          icon: '',
+          icon: 'masala',
           to: '/lessons/nineteen/masala'
         },
         {
           title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
-          icon: '',
+          icon: 'savol',
           to: '/lessons/nineteen/savol'
         },
         {
           title: 'Reja va tayanch iboralar',
-          icon: '',
+          icon: 'reja',
           to: '/lessons/nineteen/reja'
         },
         {
           title: "GRAFLAR, IZОMОFIZM, TIPLAR, BОGLANISHLIK EYLER VA GAMILTОN GRAFLARI.",
-          icon: '',
+          icon: 'toplam',
+          to: '/lessons/nineteen/tayanch'
+        },
+        {
+          title: "Test",
+          icon: 'test',
           to: '/lessons/nineteen/tayanch'
         },
       ]

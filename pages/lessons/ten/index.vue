@@ -13,23 +13,28 @@ export default {
     return {
       items: [
         {
-          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
-          icon: '',
-          to: '/lessons/ten/masala'
-        },
-        {
-          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
-          icon: '',
-          to: '/lessons/ten/savol'
-        },
-        {
           title: 'Reja va tayanch iboralar',
-          icon: '',
+          icon: 'reja',
           to: '/lessons/ten/reja'
         },
         {
           title: "JEGALKIN KO'PHADI. MONOTON BUL FUNKSIYALARI",
-          icon: '',
+          icon: 'toplam',
+          to: '/lessons/ten/funksiya'
+        },
+        {
+          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
+          icon: 'savol',
+          to: '/lessons/ten/savol'
+        },
+        {
+          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
+          icon: 'masala',
+          to: '/lessons/ten/masala'
+        },
+        {
+          title: "Test",
+          icon: 'test',
           to: '/lessons/ten/funksiya'
         },
       ]

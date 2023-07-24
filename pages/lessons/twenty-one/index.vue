@@ -13,24 +13,29 @@ export default {
     return {
       items: [
         {
-          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
-          icon: '',
-          to: '/lessons/twenty-one/masala'
-        },
-        {
-          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
-          icon: '',
-          to: '/lessons/twenty-one/savol'
-        },
-        {
           title: 'Reja va tayanch iboralar',
-          icon: '',
+          icon: 'reja',
           to: '/lessons/twenty-one/reja'
         },
         {
           title: "TYURING MASHINALARI. NОREKURSIV SANALUVCHAN TО‘PLAMLAR. TО‘XTASH MUAMMОSI. ALGОRITMIK YECHILMAS MUAMMОLAR",
-          icon: '',
+          icon: 'toplam',
           to: '/lessons/twenty-one/yechim'
+        },
+        {
+          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
+          icon: 'savol',
+          to: '/lessons/twenty-one/savol'
+        },
+        {
+          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
+          icon: 'masala',
+          to: '/lessons/twenty-one/masala'
+        },
+        {
+          title: 'Test',
+          icon: 'test',
+          to: '/lessons/twenty-one/reja'
         },
       ]
     }

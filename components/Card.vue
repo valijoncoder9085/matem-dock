@@ -1,14 +1,13 @@
 <template>
   <div>
     <v-row class="mt-4">
-      <v-col cols="12" md="12" lg="12" sm="12" v-for="(item, idx) in items" :key="'id_'+idx">
+      <v-col cols="12" md="6" lg="6" sm="12" v-for="(item, idx) in items" :key="'id_'+idx">
         <nuxt-link :to="item.to">
           <div class="card rounded-lg d-flex align-center elevation-1">
             <div class="card_img mr-3">
-              <v-img v-if="item.icon === ''" style="height: 100px" src="img-no-found.png"></v-img>
-              <v-img v-else style="height: 100px" :src="`/${item.icon}`"></v-img>
+              <v-img v-if="item.icon !== ''" style="height: 100px; background-position: center; width: 100%" :src="`/img/${item.icon}` + '.jpg'"></v-img>
             </div>
-            <span style="color: #444" class="text-h6">
+            <span style="color: #66BB6A; font-family:  'Cormorant Garamond', serif" class="text-h7 text-uppercase">
             {{item.title}}
           </span>
           </div>
@@ -27,10 +26,6 @@ export default {
       required: true
     }
   },
-  data() {
-    return {
-    }
-  }
 }
 </script>
 

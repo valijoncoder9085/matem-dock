@@ -13,23 +13,28 @@ export default {
     return {
       items: [
         {
-          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
-          icon: '',
-          to: '/lessons/sixteen/masala'
-        },
-        {
-          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
-          icon: '',
-          to: '/lessons/sixteen/savol'
-        },
-        {
           title: 'Reja va tayanch iboralar',
-          icon: '',
+          icon: 'reja',
           to: '/lessons/sixteen/reja'
         },
         {
           title: "YECHILISH MUAMMОSI. CHEKLI SОHALARDA YECHILISH MUAMMОSI. YОPIQ FОRMULA.",
-          icon: '',
+          icon: 'toplam',
+          to: '/lessons/sixteen/formula'
+        },
+        {
+          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
+          icon: 'savol',
+          to: '/lessons/sixteen/savol'
+        },
+        {
+          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
+          icon: 'masala',
+          to: '/lessons/sixteen/masala'
+        },
+        {
+          title: "Test",
+          icon: 'test',
           to: '/lessons/sixteen/formula'
         },
       ]

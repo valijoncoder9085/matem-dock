@@ -13,23 +13,28 @@ export default {
     return {
       items: [
         {
-          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
-          icon: '',
-          to: '/lessons/nine/masala'
-        },
-        {
-          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
-          icon: '',
-          to: '/lessons/nine/savol'
-        },
-        {
           title: 'Reja va tayanch iboralar',
-          icon: '',
+          icon: 'reja',
           to: '/lessons/nine/reja'
         },
         {
           title: "BUL FUNKSIYALARINI О‘ZGARUVCHILAR BО‘YICHA YОYILMASI. MDNSH VA MKNSH",
-          icon: '',
+          icon: 'toplam',
+          to: '/lessons/nine/funksiya'
+        },
+        {
+          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
+          icon: 'savol',
+          to: '/lessons/nine/savol'
+        },
+        {
+          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
+          icon: 'masala',
+          to: '/lessons/nine/masala'
+        },
+        {
+          title: "Test",
+          icon: 'test',
           to: '/lessons/nine/funksiya'
         },
       ]

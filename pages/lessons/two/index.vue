@@ -13,23 +13,28 @@ export default {
     return {
       items: [
         {
-          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR',
-          icon: '',
-          to: '/lessons/two/masala'
-        },
-        {
-          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
-          icon: '',
-          to: '/lessons/two/savol'
-        },
-        {
           title: 'Reja va tayanch iboralar',
-          icon: '',
+          icon: 'reja',
           to: '/lessons/two/reja'
         },
         {
           title: 'MUNОSABATLAR. BINAR MUNОSABAT. EKVIVALENTLIK MUNОSABATI. TARTIBLASH MUNОSABATI',
-          icon: '',
+          icon: 'toplam',
+          to: '/lessons/two/binar'
+        },
+        {
+          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
+          icon: 'savol',
+          to: '/lessons/two/savol'
+        },
+        {
+          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR',
+          icon: 'masala',
+          to: '/lessons/two/masala'
+        },
+        {
+          title: 'Test',
+          icon: 'test',
           to: '/lessons/two/binar'
         },
       ]

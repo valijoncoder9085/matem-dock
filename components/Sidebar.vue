@@ -5,12 +5,12 @@
       outlined
       :clipped-left="clipped"
       elevation="0"
-      style="background-color: inherit;"
+      style="background-color: rgba(50, 50, 150, 0.3);"
       app
     >
       <v-spacer/>
-      <v-toolbar-title style="color: white">
-        <h3>{{ title }}</h3>
+      <v-toolbar-title style="color: #FFECB3">
+        <h2 style="font-family:  'Cormorant Garamond', serif">{{ title }}</h2>
       </v-toolbar-title>
       <v-spacer />
     </v-app-bar>
@@ -30,7 +30,7 @@ export default {
     return {
       background: background,
       clipped: false,
-      title: 'Diskret matematika va matekatik mantiq'
+      title: 'Diskret matematika va matematik mantiq'
     }
   }
 }

@@ -13,23 +13,28 @@ export default {
     return {
       items: [
         {
-          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
-          icon: '',
-          to: '/lessons/eleven/masala'
-        },
-        {
-          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
-          icon: '',
-          to: '/lessons/eleven/savol'
-        },
-        {
           title: 'Reja va tayanch iboralar',
-          icon: '',
+          icon: 'reja',
           to: '/lessons/eleven/reja'
         },
         {
           title: "TO'LIQ VA YOPIQ FUNKSIYALAR SISTEMALARI. POST TEOREMASI",
-          icon: '',
+          icon: 'toplam',
+          to: '/lessons/eleven/funksiya'
+        },
+        {
+          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
+          icon: 'savol',
+          to: '/lessons/eleven/savol'
+        },
+        {
+          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
+          icon: 'masala',
+          to: '/lessons/eleven/masala'
+        },
+        {
+          title: "Test",
+          icon: 'test',
           to: '/lessons/eleven/funksiya'
         },
       ]

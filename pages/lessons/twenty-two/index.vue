@@ -13,23 +13,28 @@ export default {
     return {
       items: [
         {
-          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
-          icon: '',
-          to: '/lessons/twenty-two/masala'
-        },
-        {
-          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
-          icon: '',
-          to: '/lessons/twenty-two/savol'
-        },
-        {
           title: 'Reja va tayanch iboralar',
-          icon: '',
+          icon: 'reja',
           to: '/lessons/twenty-two/reja'
         },
         {
           title: "REKURSIV VA REKURSIV SANALUCSHI TО‘PLAMLAR.",
-          icon: '',
+          icon: 'toplam',
+          to: '/lessons/twenty-two/rekursiv'
+        },
+        {
+          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
+          icon: 'savol',
+          to: '/lessons/twenty-two/savol'
+        },
+        {
+          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
+          icon: 'masala',
+          to: '/lessons/twenty-two/masala'
+        },
+        {
+          title: "Test",
+          icon: 'test',
           to: '/lessons/twenty-two/rekursiv'
         },
       ]

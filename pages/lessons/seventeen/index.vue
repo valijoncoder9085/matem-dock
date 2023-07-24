@@ -14,22 +14,27 @@ export default {
       items: [
         {
           title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR:',
-          icon: '',
+          icon: 'masala',
           to: '/lessons/seventeen/masala'
         },
         {
           title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
-          icon: '',
+          icon: 'savol',
           to: '/lessons/seventeen/savol'
         },
         {
           title: 'Reja va tayanch iboralar',
-          icon: '',
+          icon: 'reja',
           to: '/lessons/seventeen/reja'
         },
         {
           title: "KОMBINATОRIKA ASОSLARI. О‘RIN ALMASHTIRISHLAR VA KОMBINATSIYALAR.",
-          icon: '',
+          icon: 'toplam',
+          to: '/lessons/seventeen/kombinatsiya'
+        },
+        {
+          title: "Test",
+          icon: 'test',
           to: '/lessons/seventeen/kombinatsiya'
         },
       ]

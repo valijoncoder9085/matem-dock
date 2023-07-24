@@ -13,28 +13,28 @@ export default {
     return {
       items: [
         {
-          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR',
-          icon: '',
-          to: '/lessons/one/masala'
-        },
-        {
-          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
-          icon: '',
-          to: '/lessons/one/savol'
-        },
-        {
           title: 'Reja va tayanch iboralar',
-          icon: '',
+          icon: 'reja',
           to: '/lessons/one/reja'
         },
         {
           title: 'TО‘PLAMLAR NAZARIУASI.',
-          icon: '',
+          icon: 'toplam',
           to: '/lessons/one/nazariya'
         },
         {
+          title: 'MUSTAQIL ISHLASH UCHUN SAVОLLAR:',
+          icon: 'savol',
+          to: '/lessons/one/savol'
+        },
+        {
+          title: 'MUAMMОLI MASALA VA TОPSHIRIQLAR',
+          icon: 'masala',
+          to: '/lessons/one/masala'
+        },
+        {
           title: 'Test',
-          icon: '',
+          icon: 'test',
           to: '/lessons/one/test'
         },
       ]
