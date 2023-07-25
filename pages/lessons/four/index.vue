@@ -35,7 +35,17 @@ export default {
         {
           title: 'Test',
           icon: 'test',
-          to: '/lessons/four/formula'
+          to: '/lessons/four/test'
+        },
+        {
+          title: 'Aynan chin',
+          icon: 'prezintatsiya',
+          to: '/lessons/four/Айнан чин'
+        },
+        {
+          title: 'Formulalar teng kuchli formulalar',
+          icon: 'prezintatsiya',
+          to: '/lessons/four/Формулалар тенг кучли фор'
         },
       ]
     }

@@ -33,9 +33,9 @@ export default {
           to: '/lessons/eighteen/graf'
         },
         {
-          title: "Test",
-          icon: 'test',
-          to: '/lessons/eighteen/graf'
+          title: "Graflar nazariyasi",
+          icon: 'prezintatsiya',
+          to: '/lessons/eighteen/Граф'
         },
       ]
     }

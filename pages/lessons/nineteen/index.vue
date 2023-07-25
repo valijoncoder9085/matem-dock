@@ -32,11 +32,6 @@ export default {
           icon: 'toplam',
           to: '/lessons/nineteen/tayanch'
         },
-        {
-          title: "Test",
-          icon: 'test',
-          to: '/lessons/nineteen/tayanch'
-        },
       ]
     }
   },

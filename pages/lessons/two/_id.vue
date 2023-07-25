@@ -1,7 +1,6 @@
 <template>
   <div>
     <PDFComponent v-show="src !== ''" :src="'/lessons/two/' +`${src}` + '.pdf'"/>
-    <h1>loading</h1>
   </div>
 </template>
 

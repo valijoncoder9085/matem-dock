@@ -35,7 +35,12 @@ export default {
         {
           title: 'Test',
           icon: 'test',
-          to: '/lessons/eight/funksiya'
+          to: '/lessons/eight/test'
+        },
+        {
+          title: 'Бул FUNKSIYALARNI FORMULALAR KORINISHIDA IFODALASH',
+          icon: 'prezintatsiya',
+          to: '/lessons/eight/Бул FUNKSIYALARNI FORMULALAR KORINISHIDA IFODALASH'
         },
       ]
     }

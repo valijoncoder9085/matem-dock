@@ -35,7 +35,12 @@ export default {
         {
           title: 'Test',
           icon: 'test',
-          to: '/lessons/seven/formula'
+          to: '/lessons/seven/test'
+        },
+        {
+          title: 'Mantiq funksiyalari uchun chinlik jadvali tuzish.',
+          icon: 'prezintatsiya',
+          to: '/lessons/seven/Mantiq funksiyalari uchun chinlik jadvali tuzish.'
         },
       ]
     }

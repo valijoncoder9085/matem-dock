@@ -35,7 +35,12 @@ export default {
         {
           title: "Test",
           icon: 'test',
-          to: '/lessons/nine/funksiya'
+          to: '/lessons/nine/test'
+        },
+        {
+          title: "Bul funksiyalarini o'zgaruvchilar bo'yicha yoyilmasi.",
+          icon: 'prezintatsiya',
+          to: '/lessons/nine/бул ф.я. узгарув'
         },
       ]
     }

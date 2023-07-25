@@ -35,7 +35,12 @@ export default {
         {
           title: "Test",
           icon: 'test',
-          to: '/lessons/fourteen/formula'
+          to: '/lessons/fourteen/test'
+        },
+        {
+          title: "Predikat",
+          icon: 'prezintatsiya',
+          to: '/lessons/fourteen/предикат'
         },
       ]
     }

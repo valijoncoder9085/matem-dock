@@ -35,7 +35,12 @@ export default {
         {
           title: "Test",
           icon: 'test',
-          to: '/lessons/sixteen/formula'
+          to: '/lessons/sixteen/test'
+        },
+        {
+          title: "PREDIKATLAR HISOBI AKSIOMALAR",
+          icon: 'prezintatsiya',
+          to: '/lessons/sixteen/16'
         },
       ]
     }

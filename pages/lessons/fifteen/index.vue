@@ -35,7 +35,12 @@ export default {
         {
           title: "Test",
           icon: 'test',
-          to: '/lessons/fifteen/aksioma'
+          to: '/lessons/fifteen/test'
+        },
+        {
+          title: "PREDIKATLAR ALGEBRASI VA UNING FОRMULALARI",
+          icon: 'prezintatsiya',
+          to: '/lessons/fifteen/15'
         },
       ]
     }

@@ -35,7 +35,12 @@ export default {
         {
           title: 'Test',
           icon: 'test',
-          to: '/lessons/six/formula'
+          to: '/lessons/six/test'
+        },
+        {
+          title: 'MUKAMMAL KONYUKTIV NORMAL FORMALAR',
+          icon: 'prezintatsiya',
+          to: '/lessons/six/MUKAMMAL_KONYUKTIV_NORMAL_FORMALAR'
         },
       ]
     }

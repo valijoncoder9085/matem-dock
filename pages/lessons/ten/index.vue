@@ -35,7 +35,12 @@ export default {
         {
           title: "Test",
           icon: 'test',
-          to: '/lessons/ten/funksiya'
+          to: '/lessons/ten/test'
+        },
+        {
+          title: "Jegalkin",
+          icon: 'prezintatsiya',
+          to: '/lessons/ten/Жегалкин'
         },
       ]
     }

@@ -19,6 +19,11 @@
         <Nuxt />
       </v-container>
     </v-main>
+    <v-footer app style="font-family:  'Cormorant Garamond', serif; background-color: rgba(30, 80, 100, 0.9); color: white">
+      <v-spacer/>
+      Mualif: Umarova Umida Umarovna
+      <v-spacer/>
+    </v-footer>
   </v-app>
 </template>
 

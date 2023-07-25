@@ -35,7 +35,12 @@ export default {
         {
           title: "Test",
           icon: 'test',
-          to: '/lessons/eleven/funksiya'
+          to: '/lessons/eleven/test'
+        },
+        {
+          title: "TО‘LIQ VA УОPIQ FUNKSIУALAR SISTEMALARI. PОST TEОREMASI",
+          icon: 'prezintatsiya',
+          to: '/lessons/eleven/TО‘LIQ VA УОPIQ FUNKSIУALAR SISTEMALARI. PОST TEОREMASI'
         },
       ]
     }

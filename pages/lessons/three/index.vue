@@ -35,7 +35,12 @@ export default {
         {
           title: 'Test',
           icon: 'test',
-          to: '/lessons/two/binar'
+          to: '/lessons/three/test'
+        },
+        {
+          title: 'Mulohazalar algebrasi',
+          icon: 'prezintatsiya',
+          to: '/lessons/three/3'
         },
       ]
     }

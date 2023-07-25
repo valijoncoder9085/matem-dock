@@ -33,9 +33,9 @@ export default {
           to: '/lessons/twenty-one/masala'
         },
         {
-          title: 'Test',
-          icon: 'test',
-          to: '/lessons/twenty-one/reja'
+          title: "Tyuring mashinalari",
+          icon: 'prezintatsiya',
+          to: '/lessons/twenty-one/машина тюринга'
         },
       ]
     }

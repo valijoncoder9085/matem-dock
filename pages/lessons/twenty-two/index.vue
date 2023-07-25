@@ -35,7 +35,12 @@ export default {
         {
           title: "Test",
           icon: 'test',
-          to: '/lessons/twenty-two/rekursiv'
+          to: '/lessons/twenty-two/test'
+        },
+        {
+          title: "REKURSIV VA REKURSIV SANALUCSHI TО‘PLAMLAR.",
+          icon: 'prezintatsiya',
+          to: '/lessons/twenty-two/рекурсив функц'
         },
       ]
     }

@@ -35,7 +35,12 @@ export default {
         {
           title: 'Test',
           icon: 'test',
-          to: '/lessons/five/tengkuch'
+          to: '/lessons/five/test'
+        },
+        {
+          title: 'Asosiy teng kuchliliklar',
+          icon: 'prezintatsiya',
+          to: '/lessons/five/Асосий тенгкучлиликлар'
         },
       ]
     }
