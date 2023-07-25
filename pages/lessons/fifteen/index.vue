@@ -35,7 +35,7 @@ export default {
         {
           title: "Test",
           icon: 'test',
-          to: '/lessons/fifteen'
+          to: '/lessons/fifteen/test'
         },
         {
           title: "PREDIKATLAR ALGEBRASI VA UNING FОRMULALARI",

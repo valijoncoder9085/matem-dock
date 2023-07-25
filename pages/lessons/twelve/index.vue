@@ -35,7 +35,7 @@ export default {
         {
           title: "Test",
           icon: 'test',
-          to: '/lessons/twelve'
+          to: '/lessons/twelve/test'
         },
         {
           title: "Keltirib chiqarish va ISBOT.",

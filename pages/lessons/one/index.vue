@@ -35,7 +35,7 @@ export default {
         {
           title: 'Test',
           icon: 'test',
-          to: '/lessons/one'
+          to: '/lessons/one/test'
         },
         {
           title: 'Diskret matematika va matematika matiq',

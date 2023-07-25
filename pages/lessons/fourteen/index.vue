@@ -35,7 +35,7 @@ export default {
         {
           title: "Test",
           icon: 'test',
-          to: '/lessons/fourteen'
+          to: '/lessons/fourteen/test'
         },
         {
           title: "Predikat",

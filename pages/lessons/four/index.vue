@@ -35,7 +35,7 @@ export default {
         {
           title: 'Test',
           icon: 'test',
-          to: '/lessons/four'
+          to: '/lessons/four/test'
         },
         {
           title: 'Aynan chin',

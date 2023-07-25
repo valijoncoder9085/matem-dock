@@ -35,7 +35,7 @@ export default {
         {
           title: 'Test',
           icon: 'test',
-          to: '/lessons/seven'
+          to: '/lessons/seven/test'
         },
         {
           title: 'Mantiq funksiyalari uchun chinlik jadvali tuzish.',

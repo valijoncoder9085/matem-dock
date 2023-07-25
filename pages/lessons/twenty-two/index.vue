@@ -35,7 +35,7 @@ export default {
         {
           title: "Test",
           icon: 'test',
-          to: '/lessons/twenty-two'
+          to: '/lessons/twenty-two/test'
         },
         {
           title: "REKURSIV VA REKURSIV SANALUCSHI TО‘PLAMLAR.",
