@@ -32,6 +32,11 @@ export default {
           icon: 'toplam',
           to: '/lessons/nineteen/tayanch'
         },
+        {
+          title: "DARAXTLAR, ULARNI TADBIQLARI. TAYANCH DARAXTLAR",
+          icon: 'prezintatsiya',
+          to: '/lessons/nineteen/DARAXTLAR, ULARNI TADBIQLARI. TAYANCH DARAXTLAR'
+        },
       ]
     }
   },
