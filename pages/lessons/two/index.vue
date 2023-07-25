@@ -33,6 +33,11 @@ export default {
           to: '/lessons/two/masala'
         },
         {
+          title: "Test",
+          icon: 'test',
+          to: '/lessons/two/test'
+        },
+        {
           title: "Qisman tartiblangan to'plamlar",
           icon: 'prezintatsiya',
           to: '/lessons/two/2'
