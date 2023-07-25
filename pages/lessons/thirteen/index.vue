@@ -35,7 +35,7 @@ export default {
         {
           title: "Test",
           icon: 'test',
-          to: '/lessons/thirteen/test'
+          to: '/lessons/thirteen'
         },
         {
           title: "Umumiy deduksiya",

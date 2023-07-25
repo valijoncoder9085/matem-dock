@@ -35,7 +35,7 @@ export default {
         {
           title: "Test",
           icon: 'test',
-          to: '/lessons/nine/test'
+          to: '/lessons/nine'
         },
         {
           title: "Bul funksiyalarini o'zgaruvchilar bo'yicha yoyilmasi.",

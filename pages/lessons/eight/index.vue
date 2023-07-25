@@ -35,7 +35,7 @@ export default {
         {
           title: 'Test',
           icon: 'test',
-          to: '/lessons/eight/test'
+          to: '/lessons/eight'
         },
         {
           title: 'Бул FUNKSIYALARNI FORMULALAR KORINISHIDA IFODALASH',

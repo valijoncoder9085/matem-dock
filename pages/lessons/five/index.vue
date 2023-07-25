@@ -35,7 +35,7 @@ export default {
         {
           title: 'Test',
           icon: 'test',
-          to: '/lessons/five/test'
+          to: '/lessons/five'
         },
         {
           title: 'Asosiy teng kuchliliklar',

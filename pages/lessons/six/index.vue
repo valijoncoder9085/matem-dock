@@ -35,7 +35,7 @@ export default {
         {
           title: 'Test',
           icon: 'test',
-          to: '/lessons/six/test'
+          to: '/lessons/six'
         },
         {
           title: 'MUKAMMAL KONYUKTIV NORMAL FORMALAR',

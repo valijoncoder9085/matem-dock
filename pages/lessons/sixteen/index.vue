@@ -35,7 +35,7 @@ export default {
         {
           title: "Test",
           icon: 'test',
-          to: '/lessons/sixteen/test'
+          to: '/lessons/sixteen'
         },
         {
           title: "PREDIKATLAR HISOBI AKSIOMALAR",

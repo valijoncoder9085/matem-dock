@@ -35,7 +35,7 @@ export default {
         {
           title: 'Test',
           icon: 'test',
-          to: '/lessons/twenty/test'
+          to: '/lessons/twenty'
         },
         {
           title: "Algoritm tushunchasi",

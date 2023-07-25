@@ -35,7 +35,7 @@ export default {
         {
           title: "Test",
           icon: 'test',
-          to: '/lessons/seventeen/test'
+          to: '/lessons/seventeen'
         },
         {
           title: "Kombinatorika asoslari. O’rin almashtirishlar va kombinatsiyalar.",
