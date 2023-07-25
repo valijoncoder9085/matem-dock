@@ -21,7 +21,7 @@
     </v-main>
     <v-footer app style="font-family:  'Cormorant Garamond', serif; background-color: rgba(30, 80, 100, 0.9); color: white">
       <v-spacer/>
-     Loyiha Mualif: Umarova Umida Umarovna
+     Loyiha muallifi: Umarova Umida Umarovna
       <v-spacer/>
     </v-footer>
   </v-app>
