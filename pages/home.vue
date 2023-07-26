@@ -13,7 +13,7 @@ export default {
     return{
       items: [
         {
-          title: "Normativ Hujjatlar",
+          title: "O'quv meyoriy hujjatlar",
           icon: 'normativ',
           to: '/normativ'
         },
