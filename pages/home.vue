@@ -28,28 +28,31 @@ export default {
           to: '/fan-haqida'
         },
         {
-          title: 'Mundarija',
-          icon: 'mundarija',
-          to: '/mundarija'
+          title: "Darslar",
+          icon: 'dars',
+          to: '/lessons'
         },
+
         {
           title: "Adabiyotlar ro'yxati",
           icon: 'axborot',
           to: '/adabiyotlar'
         },
         {
-          title: "Darslar",
-          icon: 'dars',
-          to: '/lessons'
+          title: "Muallif haqida ma'lumot",
+          icon: 'mundarija',
+          to: '/muallif'
         },
         {
           title: "MUSTAQIL TA’LIM MAVZULARINI O’ZLASHTIRISH BO’YICHA ZARUR USLUBIY KO’RSATMALAR.",
           icon: 'mustaqil',
           to: '/uslub'
         },
-
-
-
+        {
+          title: "Talabalar bilimini baholash",
+          icon: 'bilim',
+          to: '/bilim'
+        },
       ]
     }
   }
